@@ -5,3 +5,5 @@
 1) even https://asciinema.org/a/aj2h4CAXEBJ7xYyJJyJcUuFGR"
 
 2) calc https://asciinema.org/a/KEPYqQRLmUA0ydbaUNVURjrCk
+
+3) gcd https://asciinema.org/a/jBIWGrESjEmYbLHfUueinhfWI

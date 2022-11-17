@@ -3,6 +3,7 @@ from brain_games.games.engine_game import engine
 
 from brain_games.games import even_game
 from brain_games.games import calc_game
+from brain_games.games import gcd_game
 
 
 def brain_even():
@@ -10,3 +11,6 @@ def brain_even():
 
 def brain_calc():
     engine(calc_game)
+
+def brain_gcd():
+    engine(gcd_game)
