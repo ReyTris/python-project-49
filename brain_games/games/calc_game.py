@@ -16,6 +16,6 @@ def set_question_answer():
     num1 = random.randint(1,100)
     num2 = random.randint(1,100)
     char = random.choice(['-','+','*'])
-    right_answer = is_calculate(char, num1, num2)
+    right_answer = str(is_calculate(char, num1, num2))
     number = f'{str(num1)} {char} {str(num2)}'
     return number, right_answer
