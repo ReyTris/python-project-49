@@ -7,3 +7,5 @@
 2) calc https://asciinema.org/a/KEPYqQRLmUA0ydbaUNVURjrCk
 
 3) gcd https://asciinema.org/a/jBIWGrESjEmYbLHfUueinhfWI
+
+4) progression https://asciinema.org/a/Ih86oSYE9pjKSpg9PHZfa5H1D
