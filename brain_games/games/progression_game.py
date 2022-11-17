@@ -18,7 +18,7 @@ def set_question_answer():
     
     right_answer = choice(progression)
     index_random_num = progression.index(right_answer)
-    progression[index_random_num] = '...'
+    progression[index_random_num] = '..'
     question = ','.join(progression)
 
     return question, right_answer
