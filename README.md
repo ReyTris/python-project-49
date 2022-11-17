@@ -9,3 +9,5 @@
 3) gcd https://asciinema.org/a/jBIWGrESjEmYbLHfUueinhfWI
 
 4) progression https://asciinema.org/a/Ih86oSYE9pjKSpg9PHZfa5H1D
+
+5) prime https://asciinema.org/a/XpjA3M762hn2MLJTilciXuJPn
