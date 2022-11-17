@@ -1,6 +1,6 @@
 from random import randint, choice
 
-START_INFO = 'Find the greatest common divisor of given numbers.'
+START_INFO = 'What number is missing in the progression?'
 ROUND_NUMBER = 3
 
 def set_question_answer():
