@@ -2,7 +2,11 @@
 from brain_games.games.engine_game import engine
 
 from brain_games.games import even_game
+from brain_games.games import calc_game
 
 
 def brain_even():
     engine(even_game)
+
+def brain_calc():
+    engine(calc_game)
