@@ -1,21 +1,22 @@
-import random, operator
+import random
 
 START_INFO = 'What is the result of the expression?'
 ROUND_NUMBER = 3
 
+
 def is_calculate(char, num1, num2):
-    
-    if char == '+': 
+    if char == '+':
         return num1 + num2
-    elif char == '-': 
+    elif char == '-':
         return num1 - num2
-    else: 
+    else:
         return num1 * num2
 
+
 def set_question_answer():
-    num1 = random.randint(1,100)
-    num2 = random.randint(1,100)
-    char = random.choice(['-','+','*'])
+    num1 = random.randint(1, 100)
+    num2 = random.randint(1, 100)
+    char = random.choice(['-', '+', '*'])
     right_answer = str(is_calculate(char, num1, num2))
     number = f'{str(num1)} {char} {str(num2)}'
     return number, right_answer

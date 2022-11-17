@@ -1,4 +1,5 @@
-import random, math
+import random
+import math
 
 START_INFO = 'Find the greatest common divisor of given numbers.'
 ROUND_NUMBER = 3
