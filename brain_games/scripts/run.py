@@ -5,6 +5,7 @@ from brain_games.games import even_game
 from brain_games.games import calc_game
 from brain_games.games import gcd_game
 from brain_games.games import progression_game
+from brain_games.games import prime_game
 
 
 def brain_even():
@@ -18,3 +19,6 @@ def brain_gcd():
 
 def brain_progression():
     engine(progression_game)
+
+def brain_prime():
+    engine(prime_game)
