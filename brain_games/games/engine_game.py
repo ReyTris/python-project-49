@@ -9,7 +9,7 @@ def engine(script_game):
 
         answer = cli.get_answer(question)
 
-        if int(answer) != int(right_answer):
+        if answer != right_answer:
             cli.wrong_answer(right_answer, answer, name)
             break
         cli.right_answer()

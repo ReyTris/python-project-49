@@ -9,6 +9,8 @@ brain-gcd:
 	poetry run brain-gcd
 brain-progression:
 	poetry run brain-progression
+brain-progression:
+	poetry run brain-prime
 brain-games:
 	poetry run brain-games
 build:
